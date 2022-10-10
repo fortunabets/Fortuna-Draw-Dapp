@@ -12,8 +12,8 @@
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
+  <a href="#play">Play</a> •
+  <a href="#credits">Credits</a> 
 </p>
 
 ![screenshot](https://github.com/fortunabets/Fortuna-Website/blob/895efb8f810af11873cf8223b3159630d06d257f/images/fortuna.JPG)
